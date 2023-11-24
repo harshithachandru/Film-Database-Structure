@@ -1,0 +1,2 @@
+Film Database Management System (DBMS) is a comprehensive MYSQL project designed to streamline and optimize the management of Film Industry. This project aims to provide an efficient and user-friendly solution for storing, retrieving, and manipulating various types of Film-Industry related data.
+It Consits of Diffrent tables like actor,address,category,city ,country,film,department,film_actor,film_category,language.
